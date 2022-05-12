@@ -1,0 +1,25 @@
+C:\Users\uoseji\Desktop\ShoppingBasketLibrary\ShoppingBasketLibraryTests\bin\Debug\ShoppingBasketLibraryTests.dll
+C:\Users\uoseji\Desktop\ShoppingBasketLibrary\ShoppingBasketLibraryTests\bin\Debug\ShoppingBasketLibraryTests.pdb
+C:\Users\uoseji\Desktop\ShoppingBasketLibrary\ShoppingBasketLibraryTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\uoseji\Desktop\ShoppingBasketLibrary\ShoppingBasketLibraryTests\bin\Debug\ShoppingBasketLibrary.dll
+C:\Users\uoseji\Desktop\ShoppingBasketLibrary\ShoppingBasketLibraryTests\bin\Debug\ShoppingBasketLibrary.pdb
+C:\Users\uoseji\Desktop\ShoppingBasketLibrary\ShoppingBasketLibraryTests\obj\Debug\ShoppingBasketLibraryTests.csprojResolveAssemblyReference.cache
+C:\Users\uoseji\Desktop\ShoppingBasketLibrary\ShoppingBasketLibraryTests\obj\Debug\ShoppingBasketLibraryTests.dll
+C:\Users\uoseji\Desktop\ShoppingBasketLibrary\ShoppingBasketLibraryTests\obj\Debug\ShoppingBasketLibraryTests.pdb
+C:\Users\uoseji\Desktop\QA Level 3\ShoppingBasketLibrary\ShoppingBasketLibraryTests\bin\Debug\ShoppingBasketLibraryTests.dll
+C:\Users\uoseji\Desktop\QA Level 3\ShoppingBasketLibrary\ShoppingBasketLibraryTests\bin\Debug\ShoppingBasketLibraryTests.pdb
+C:\Users\uoseji\Desktop\QA Level 3\ShoppingBasketLibrary\ShoppingBasketLibraryTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\uoseji\Desktop\QA Level 3\ShoppingBasketLibrary\ShoppingBasketLibraryTests\bin\Debug\ShoppingBasketLibrary.dll
+C:\Users\uoseji\Desktop\QA Level 3\ShoppingBasketLibrary\ShoppingBasketLibraryTests\bin\Debug\ShoppingBasketLibrary.pdb
+C:\Users\uoseji\Desktop\QA Level 3\ShoppingBasketLibrary\ShoppingBasketLibraryTests\obj\Debug\ShoppingBasketLibraryTests.csprojResolveAssemblyReference.cache
+C:\Users\uoseji\Desktop\QA Level 3\ShoppingBasketLibrary\ShoppingBasketLibraryTests\obj\Debug\ShoppingBasketLibraryTests.dll
+C:\Users\uoseji\Desktop\QA Level 3\ShoppingBasketLibrary\ShoppingBasketLibraryTests\obj\Debug\ShoppingBasketLibraryTests.pdb
+D:\Apprenticeship Capita\QA Level 3\Application\ShoppingBasketLibrary\ShoppingBasketLibraryTests\bin\Debug\ShoppingBasketLibraryTests.dll
+D:\Apprenticeship Capita\QA Level 3\Application\ShoppingBasketLibrary\ShoppingBasketLibraryTests\bin\Debug\ShoppingBasketLibraryTests.pdb
+D:\Apprenticeship Capita\QA Level 3\Application\ShoppingBasketLibrary\ShoppingBasketLibraryTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Apprenticeship Capita\QA Level 3\Application\ShoppingBasketLibrary\ShoppingBasketLibraryTests\bin\Debug\ShoppingBasketLibrary.dll
+D:\Apprenticeship Capita\QA Level 3\Application\ShoppingBasketLibrary\ShoppingBasketLibraryTests\bin\Debug\ShoppingBasketLibrary.pdb
+D:\Apprenticeship Capita\QA Level 3\Application\ShoppingBasketLibrary\ShoppingBasketLibraryTests\obj\Debug\ShoppingBasketLibraryTests.csprojAssemblyReference.cache
+D:\Apprenticeship Capita\QA Level 3\Application\ShoppingBasketLibrary\ShoppingBasketLibraryTests\obj\Debug\ShoppingBasketLibraryTests.csproj.CopyComplete
+D:\Apprenticeship Capita\QA Level 3\Application\ShoppingBasketLibrary\ShoppingBasketLibraryTests\obj\Debug\ShoppingBasketLibraryTests.dll
+D:\Apprenticeship Capita\QA Level 3\Application\ShoppingBasketLibrary\ShoppingBasketLibraryTests\obj\Debug\ShoppingBasketLibraryTests.pdb

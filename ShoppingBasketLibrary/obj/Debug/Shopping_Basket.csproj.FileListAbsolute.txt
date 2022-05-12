@@ -1,0 +1,15 @@
+C:\Users\uoseji\Desktop\QA Level 3\ShoppingBasketLibrary\ShoppingBasketLibrary\bin\Debug\ShoppingBasketLibrary.dll
+C:\Users\uoseji\Desktop\QA Level 3\ShoppingBasketLibrary\ShoppingBasketLibrary\bin\Debug\ShoppingBasketLibrary.pdb
+C:\Users\uoseji\Desktop\QA Level 3\ShoppingBasketLibrary\ShoppingBasketLibrary\obj\Debug\Shopping_Basket.csprojResolveAssemblyReference.cache
+C:\Users\uoseji\Desktop\QA Level 3\ShoppingBasketLibrary\ShoppingBasketLibrary\obj\Debug\ShoppingBasketLibrary.dll
+C:\Users\uoseji\Desktop\QA Level 3\ShoppingBasketLibrary\ShoppingBasketLibrary\obj\Debug\ShoppingBasketLibrary.pdb
+C:\Users\Uzoci\Desktop\Apprenticeship\QA Level 3\Application\ShoppingBasketLibrary\ShoppingBasketLibrary\bin\Debug\ShoppingBasketLibrary.dll
+C:\Users\Uzoci\Desktop\Apprenticeship\QA Level 3\Application\ShoppingBasketLibrary\ShoppingBasketLibrary\bin\Debug\ShoppingBasketLibrary.pdb
+C:\Users\Uzoci\Desktop\Apprenticeship\QA Level 3\Application\ShoppingBasketLibrary\ShoppingBasketLibrary\obj\Debug\ShoppingBasketLibrary.dll
+C:\Users\Uzoci\Desktop\Apprenticeship\QA Level 3\Application\ShoppingBasketLibrary\ShoppingBasketLibrary\obj\Debug\ShoppingBasketLibrary.pdb
+C:\Users\Uzoci\Desktop\Apprenticeship\QA Level 3\Application\ShoppingBasketLibrary\ShoppingBasketLibrary\obj\Debug\Shopping_Basket.csprojAssemblyReference.cache
+D:\Apprenticeship Capita\QA Level 3\Application\ShoppingBasketLibrary\ShoppingBasketLibrary\bin\Debug\ShoppingBasketLibrary.dll
+D:\Apprenticeship Capita\QA Level 3\Application\ShoppingBasketLibrary\ShoppingBasketLibrary\bin\Debug\ShoppingBasketLibrary.pdb
+D:\Apprenticeship Capita\QA Level 3\Application\ShoppingBasketLibrary\ShoppingBasketLibrary\obj\Debug\Shopping_Basket.csprojAssemblyReference.cache
+D:\Apprenticeship Capita\QA Level 3\Application\ShoppingBasketLibrary\ShoppingBasketLibrary\obj\Debug\ShoppingBasketLibrary.dll
+D:\Apprenticeship Capita\QA Level 3\Application\ShoppingBasketLibrary\ShoppingBasketLibrary\obj\Debug\ShoppingBasketLibrary.pdb

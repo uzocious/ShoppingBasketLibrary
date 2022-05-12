@@ -1,0 +1,2 @@
+*** Total Shopping Basket Receipt ***
+apple                    2     £10.00

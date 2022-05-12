@@ -1,0 +1,53 @@
+C:\Users\uoseji\Desktop\ShoppingBasketLibrary\ShoppingBasket\bin\Debug\ShoppingBasket.exe.config
+C:\Users\uoseji\Desktop\ShoppingBasketLibrary\ShoppingBasket\bin\Debug\ShoppingBasket.exe
+C:\Users\uoseji\Desktop\ShoppingBasketLibrary\ShoppingBasket\bin\Debug\ShoppingBasket.pdb
+C:\Users\uoseji\Desktop\ShoppingBasketLibrary\ShoppingBasket\obj\Debug\ShoppingBasket.csprojResolveAssemblyReference.cache
+C:\Users\uoseji\Desktop\ShoppingBasketLibrary\ShoppingBasket\obj\Debug\ShoppingBasket.Properties.Resources.resources
+C:\Users\uoseji\Desktop\ShoppingBasketLibrary\ShoppingBasket\obj\Debug\ShoppingBasket.csproj.GenerateResource.Cache
+C:\Users\uoseji\Desktop\ShoppingBasketLibrary\ShoppingBasket\obj\Debug\ShoppingBasket.exe
+C:\Users\uoseji\Desktop\ShoppingBasketLibrary\ShoppingBasket\obj\Debug\ShoppingBasket.pdb
+C:\Users\uoseji\Desktop\ShoppingBasketLibrary\ShoppingBasket\bin\Debug\ShoppingBasketLibrary.dll
+C:\Users\uoseji\Desktop\ShoppingBasketLibrary\ShoppingBasket\bin\Debug\ShoppingBasketLibrary.pdb
+C:\Users\uoseji\Desktop\ShoppingBasketLibrary\ShoppingBasket\obj\Debug\ShoppingBasketUI.EditBasketForm.resources
+C:\Users\uoseji\Desktop\ShoppingBasketLibrary\ShoppingBasket\obj\Debug\ShoppingBasketUI.MainForm.resources
+C:\Users\uoseji\Desktop\QA Level 3\ShoppingBasketLibrary\ShoppingBasket\bin\Debug\ShoppingBasket.exe.config
+C:\Users\uoseji\Desktop\QA Level 3\ShoppingBasketLibrary\ShoppingBasket\bin\Debug\ShoppingBasket.exe
+C:\Users\uoseji\Desktop\QA Level 3\ShoppingBasketLibrary\ShoppingBasket\bin\Debug\ShoppingBasket.pdb
+C:\Users\uoseji\Desktop\QA Level 3\ShoppingBasketLibrary\ShoppingBasket\bin\Debug\ShoppingBasketLibrary.dll
+C:\Users\uoseji\Desktop\QA Level 3\ShoppingBasketLibrary\ShoppingBasket\bin\Debug\ShoppingBasketLibrary.pdb
+C:\Users\uoseji\Desktop\QA Level 3\ShoppingBasketLibrary\ShoppingBasket\obj\Debug\ShoppingBasket.csprojResolveAssemblyReference.cache
+C:\Users\uoseji\Desktop\QA Level 3\ShoppingBasketLibrary\ShoppingBasket\obj\Debug\ShoppingBasketUI.MainForm.resources
+C:\Users\uoseji\Desktop\QA Level 3\ShoppingBasketLibrary\ShoppingBasket\obj\Debug\ShoppingBasketUI.EditBasketForm.resources
+C:\Users\uoseji\Desktop\QA Level 3\ShoppingBasketLibrary\ShoppingBasket\obj\Debug\ShoppingBasket.Properties.Resources.resources
+C:\Users\uoseji\Desktop\QA Level 3\ShoppingBasketLibrary\ShoppingBasket\obj\Debug\ShoppingBasket.csproj.GenerateResource.Cache
+C:\Users\uoseji\Desktop\QA Level 3\ShoppingBasketLibrary\ShoppingBasket\obj\Debug\ShoppingBasket.exe
+C:\Users\uoseji\Desktop\QA Level 3\ShoppingBasketLibrary\ShoppingBasket\obj\Debug\ShoppingBasket.pdb
+C:\Uzo ☜(⌒▽⌒)☞\Apprenticeship\QA Level 3\ShoppingBasketLibrary\ShoppingBasket\bin\Debug\ShoppingBasket.exe.config
+C:\Uzo ☜(⌒▽⌒)☞\Apprenticeship\QA Level 3\ShoppingBasketLibrary\ShoppingBasket\obj\Debug\ShoppingBasket.exe
+C:\Uzo ☜(⌒▽⌒)☞\Apprenticeship\QA Level 3\ShoppingBasketLibrary\ShoppingBasket\obj\Debug\ShoppingBasket.pdb
+C:\Users\Uzoci\Desktop\Apprenticeship\QA Level 3\Application\ShoppingBasketLibrary\ShoppingBasket\bin\Debug\ShoppingBasket.exe.config
+C:\Users\Uzoci\Desktop\Apprenticeship\QA Level 3\Application\ShoppingBasketLibrary\ShoppingBasket\bin\Debug\ShoppingBasket.exe
+C:\Users\Uzoci\Desktop\Apprenticeship\QA Level 3\Application\ShoppingBasketLibrary\ShoppingBasket\bin\Debug\ShoppingBasket.pdb
+C:\Users\Uzoci\Desktop\Apprenticeship\QA Level 3\Application\ShoppingBasketLibrary\ShoppingBasket\bin\Debug\ShoppingBasketLibrary.dll
+C:\Users\Uzoci\Desktop\Apprenticeship\QA Level 3\Application\ShoppingBasketLibrary\ShoppingBasket\bin\Debug\ShoppingBasketLibrary.pdb
+C:\Users\Uzoci\Desktop\Apprenticeship\QA Level 3\Application\ShoppingBasketLibrary\ShoppingBasket\obj\Debug\ShoppingBasketUI.MainForm.resources
+C:\Users\Uzoci\Desktop\Apprenticeship\QA Level 3\Application\ShoppingBasketLibrary\ShoppingBasket\obj\Debug\ShoppingBasketUI.EditBasketForm.resources
+C:\Users\Uzoci\Desktop\Apprenticeship\QA Level 3\Application\ShoppingBasketLibrary\ShoppingBasket\obj\Debug\ShoppingBasket.Properties.Resources.resources
+C:\Users\Uzoci\Desktop\Apprenticeship\QA Level 3\Application\ShoppingBasketLibrary\ShoppingBasket\obj\Debug\ShoppingBasket.csproj.GenerateResource.Cache
+C:\Users\Uzoci\Desktop\Apprenticeship\QA Level 3\Application\ShoppingBasketLibrary\ShoppingBasket\obj\Debug\ShoppingBasket.exe
+C:\Users\Uzoci\Desktop\Apprenticeship\QA Level 3\Application\ShoppingBasketLibrary\ShoppingBasket\obj\Debug\ShoppingBasket.pdb
+C:\Users\Uzoci\Desktop\Apprenticeship\QA Level 3\Application\ShoppingBasketLibrary\ShoppingBasket\obj\Debug\ShoppingBasket.csprojAssemblyReference.cache
+C:\Users\Uzoci\Desktop\Apprenticeship\QA Level 3\Application\ShoppingBasketLibrary\ShoppingBasket\obj\Debug\ShoppingBasket.csproj.CopyComplete
+D:\Apprenticeship Capita\QA Level 3\Application\ShoppingBasketLibrary\ShoppingBasket\bin\Debug\ShoppingBasket.exe.config
+D:\Apprenticeship Capita\QA Level 3\Application\ShoppingBasketLibrary\ShoppingBasket\bin\Debug\ShoppingBasket.exe
+D:\Apprenticeship Capita\QA Level 3\Application\ShoppingBasketLibrary\ShoppingBasket\bin\Debug\ShoppingBasket.pdb
+D:\Apprenticeship Capita\QA Level 3\Application\ShoppingBasketLibrary\ShoppingBasket\bin\Debug\ShoppingBasketLibrary.dll
+D:\Apprenticeship Capita\QA Level 3\Application\ShoppingBasketLibrary\ShoppingBasket\bin\Debug\ShoppingBasketLibrary.pdb
+D:\Apprenticeship Capita\QA Level 3\Application\ShoppingBasketLibrary\ShoppingBasket\obj\Debug\ShoppingBasket.csprojAssemblyReference.cache
+D:\Apprenticeship Capita\QA Level 3\Application\ShoppingBasketLibrary\ShoppingBasket\obj\Debug\ShoppingBasketUI.MainForm.resources
+D:\Apprenticeship Capita\QA Level 3\Application\ShoppingBasketLibrary\ShoppingBasket\obj\Debug\ShoppingBasketUI.EditBasketForm.resources
+D:\Apprenticeship Capita\QA Level 3\Application\ShoppingBasketLibrary\ShoppingBasket\obj\Debug\ShoppingBasket.Properties.Resources.resources
+D:\Apprenticeship Capita\QA Level 3\Application\ShoppingBasketLibrary\ShoppingBasket\obj\Debug\ShoppingBasket.csproj.GenerateResource.cache
+D:\Apprenticeship Capita\QA Level 3\Application\ShoppingBasketLibrary\ShoppingBasket\obj\Debug\ShoppingBasket.csproj.CopyComplete
+D:\Apprenticeship Capita\QA Level 3\Application\ShoppingBasketLibrary\ShoppingBasket\obj\Debug\ShoppingBasket.exe
+D:\Apprenticeship Capita\QA Level 3\Application\ShoppingBasketLibrary\ShoppingBasket\obj\Debug\ShoppingBasket.pdb
